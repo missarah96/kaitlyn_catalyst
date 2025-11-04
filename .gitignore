@@ -26,3 +26,6 @@ notebooks/full_df_filled.csv
 notebooks/raw/full_df.csv
 notebooks/full_df_filtered.csv
 notebooks/all_image_links_*.json
+notebooks/archive_jsons/.ipynb_checkpoints/
+notebooks/all_image_links_2018_2019_1_with_datetime.json
+notebooks/all_image_links_2016_2017_with_datetime.json
