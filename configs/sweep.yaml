@@ -1,0 +1,23 @@
+# The program to run
+program: ct_classifier/train.py
+
+# Project this sweep is part of
+project: cv4ecology_sweep
+entity: catalyst_dsi
+
+method: random  # You can also use 'grid' for a grid search
+
+metric:
+  name: val_loss  # Metric you want to optimize for
+  goal: minimize  # Change to 'maximize' if you're optimizing for a metric like accuracy
+
+parameters:
+  batch_size:
+    values: [32, 64, 128]  # List of values to sample from for batch_size
+  learning_rate:
+    min: 0.0001
+    max: 0.1  # Range for learning rate sampling
+  weight_decay:
+    values: [0.0, 0.0001, 0.001]  # List of values for weight decay
+  num_epochs:
+    value: 3  # Fixed number of epochs

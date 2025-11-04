@@ -1,0 +1,14 @@
+program: training.py  # or whatever your main script is called
+project: Species-Classification
+
+method: grid  # or 'random'
+metric:
+  name: val/accuracy
+  goal: maximize
+parameters:
+  label_smoothing:
+    values: [0.0, 0.1, 0.2]
+  weight_decay:
+    values: [0.0, 1e-4, 5e-4]
+  dropout:
+    values: [0.3, 0.5, 0.7]

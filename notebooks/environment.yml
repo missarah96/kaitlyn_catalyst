@@ -1,0 +1,13 @@
+# environment.yml
+name: speciesnet_keras3
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - tensorflow=2.19
+  - keras=3.9.2
+  - pillow
+  - pip
+  - pip:
+      - h5py
+

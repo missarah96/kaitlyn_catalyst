@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# VSCode / workspace
+*.code-workspace
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# wandb runs
+notebooks/wandb/
+speciesnet/wandb/
+
+# datasets (adjust if your path is different)
+datasets/
+ct_classifier/datasets/
+
+# envs
+.env
+.venv/

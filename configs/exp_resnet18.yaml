@@ -1,0 +1,37 @@
+# Here's where you define experiment-specific hyperparameters.
+# You can also create lists and group parameters together into nested sub-parts.
+# In Python, this is all read as a dict.
+
+# environment/computational parameters
+seed: 32678456782       # random number generator seed (long integer value)
+device: 'cuda:1'           # if you have multiple GPU's, you can use 'cuda:4' to specify which GPU to run on, e.g., the 4th
+num_workers: 8          # number of CPU cores that load data in parallel. You can set this to the number of logical CPU cores that you have. 
+
+# dataset parameters
+# data_root: /Users/sarahabdelazim/Desktop/Kaitlyn_Catalyst/ct_classifier/datasets/CaltechCT
+data_root: /home/sabdelazim/Desktop/Kaitlyn_Catalyst/ct_classifier/datasets/CaltechCT
+
+
+# this is for finegrained
+# train_annotations_filename: 'train_annotations_spp.json'
+# val_annotations_filename: 'cis_val_annotations_spp.json'
+# num_classes: 51
+
+# this is for grouped classes
+# train_annotations_filename: 'train_annotations_spp_grouped.json'
+# val_annotations_filename: 'cis_val_annotations_spp_grouped.json'
+# num_classes: 28
+
+
+# default from download
+train_annotations_filename: 'train_annotations.json'
+val_annotations_filename: 'cis_val_annotations.json'
+num_classes: 16
+
+# training hyperparameters
+image_size: [224, 224]
+num_epochs: 20        # number of epochs. Each epoch has multiple iterations. In each epoch the model goes over the full dataset once.
+batch_size: 16         # number of images that are processed in parallel in every iteration
+learning_rate: 0.001    # hyperparameter to adjust the optimizer's learning rate 
+weight_decay: 0.001     # hyperparameter for regularization
+patience: 10

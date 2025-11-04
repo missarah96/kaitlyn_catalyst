@@ -1,0 +1,190 @@
+{
+  "0": {
+    "short_name": "elephant",
+    "target_label": "55631055-3e0e-4b7a-9612-dedebe9f78b0;mammalia;proboscidea;elephantidae;loxodonta;africana;african elephant"
+  },
+  "2": {
+    "short_name": "buffalo",
+    "target_label": "9732cefb-6a08-49f6-b61e-b9a9054368c4;mammalia;cetartiodactyla;bovidae;syncerus;caffer;african buffalo"
+  },
+  "3": {
+    "short_name": "eland",
+    "target_label": "6ffe2064-cabd-4fcb-8c1b-f168bf381aab;mammalia;cetartiodactyla;bovidae;tragelaphus;oryx;common eland"
+  },
+  "4": {
+    "short_name": "sable_antelope",
+    "target_label": "2032f6c0-3537-4316-a0d7-1e754d42ed80;mammalia;cetartiodactyla;bovidae;hippotragus;niger;sable antelope"
+  },
+  "5": {
+    "short_name": "kudu",
+    "target_label": "d2e4f2d3-7182-48d1-a866-535904fe7692;mammalia;cetartiodactyla;bovidae;tragelaphus;strepsiceros;greater kudu"
+  },
+  "6": {
+    "short_name": "waterbuck",
+    "target_label": "b0f1b993-d62c-4b55-b833-5e575a15df05;mammalia;cetartiodactyla;bovidae;kobus;ellipsiprymnus;waterbuck"
+  },
+  "7": {
+    "short_name": "wildebeest",
+    "target_label": "09fbf931-bbf0-4959-9df6-1082db578281;mammalia;cetartiodactyla;bovidae;connochaetes;taurinus;common wildebeest"
+  },
+  "8": {
+    "short_name": "hartebeest",
+    "target_label": "a6c4ef9a-d23f-49ca-97c6-4f859df0066e;mammalia;cetartiodactyla;bovidae;alcelaphus;buselaphus;hartebeest"
+  },
+  "9": {
+    "short_name": "lion",
+    "target_label": "ddf59264-185a-4d35-b647-2785792bdf54;mammalia;carnivora;felidae;panthera;leo;lion"
+  },
+  "10": {
+    "short_name": "nyala",
+    "target_label": "7bfdcb3a-386b-4e47-9780-3fea47fa4e6e;mammalia;cetartiodactyla;bovidae;tragelaphus;angasii;nyala"
+  },
+  "11": {
+    "short_name": "warthog",
+    "target_label": "ccd7d6d7-8eb2-4fdb-a6d6-f1970847e449;mammalia;cetartiodactyla;suidae;phacochoerus;africanus;common warthog"
+  },
+  "12": {
+    "short_name": "bushpig",
+    "target_label": "6130285b-ff22-4602-b7e8-ef92e3a527da;mammalia;cetartiodactyla;suidae;potamochoerus;larvatus;bushpig"
+  },
+  "13": {
+    "short_name": "aardvark",
+    "target_label": "7a5a9437-883c-4a5b-b7f9-1d90ec457f46;mammalia;tubulidentata;orycteropodidae;orycteropus;afer;aardvark"
+  },
+  "14": {
+    "short_name": "impala",
+    "target_label": "c134e0ab-cf96-45ec-bae6-60b94995f71b;mammalia;cetartiodactyla;bovidae;aepyceros;melampus;impala"
+  },
+  "15": {
+    "short_name": "reedbuck",
+    "target_label": "34078f5f-1006-4a79-a62d-e5f0477abb53;mammalia;cetartiodactyla;bovidae;redunca;;reedbuck species"
+  },
+  "16": {
+    "short_name": "bushbuck",
+    "target_label": "1ae5230b-5168-4491-ad4e-19583eb21b52;mammalia;cetartiodactyla;bovidae;tragelaphus;scriptus;bushbuck"
+  },
+  "17": {
+    "short_name": "oribi",
+    "target_label": "e9fd5b93-7210-40db-9655-ad10ecf40cfb;mammalia;cetartiodactyla;bovidae;ourebia;ourebi;oribi"
+  },
+  "18": {
+    "short_name": "baboon",
+    "target_label": "a6179f10-d4f7-472d-8c38-2c54910d1e04;mammalia;primates;cercopithecidae;papio;cynocephalus;yellow baboon"
+  },
+  "19": {
+    "short_name": "duiker_common",
+    "target_label": "4d29815c-2b61-4595-a520-2441af567d64;mammalia;cetartiodactyla;bovidae;sylvicapra;grimmia;common duiker"
+  },
+  "20": {
+    "short_name": "porcupine",
+    "target_label": "3e764b23-9c39-4172-a386-09ecf92dffc5;mammalia;rodentia;hystricidae;hystrix;africaeaustralis;cape porcupine"
+  },
+  "21": {
+    "short_name": "duiker_red",
+    "target_label": "f525d1c5-9fcf-43c6-82d9-eb7a8a39d611;mammalia;cetartiodactyla;bovidae;cephalophus;natalensis;natal red duiker"
+  },
+  "22": {
+    "short_name": "civet",
+    "target_label": "127278f5-8bf3-4f85-ba19-99e097f17f46;mammalia;carnivora;viverridae;civettictis;civetta;african civet"
+  },
+  "23": {
+    "short_name": "serval",
+    "target_label": "573c85b2-4dac-406f-bcd2-ab2448fd234c;mammalia;carnivora;felidae;leptailurus;serval;serval"
+  },
+  "24": {
+    "short_name": "pangolin",
+    "target_label": "0763523f-9416-40ac-bda5-b12fa62bc871;mammalia;pholidota;manidae;smutsia;gigantea;giant ground pangolin"
+  },
+  "25": {
+    "short_name": "honey_badger",
+    "target_label": "a4f40e31-17f6-45b7-8b9d-e32af92a24df;mammalia;carnivora;mustelidae;mellivora;capensis;honey badger"
+  },
+  "26": {
+    "short_name": "samango_monkey",
+    "target_label": "13997909-c989-4400-9c2d-b9524976269c;mammalia;primates;cercopithecidae;cercopithecus;mitis;blue monkey"
+  },
+  "27": {
+    "short_name": "vervet_monkey",
+    "target_label": "0c72ac0d-6ed4-40f4-90ba-215dd1a7de8e;mammalia;primates;cercopithecidae;chlorocebus;pygerythrus;vervet monkey"
+  },
+  "28": {
+    "short_name": "mongoose_white_tailed",
+    "target_label": "37b83705-ecdf-406d-923a-12a736fd56f3;mammalia;carnivora;herpestidae;ichneumia;albicauda;white-tailed mongoose"
+  },
+  "29": {
+    "short_name": "mongoose_marsh",
+    "target_label": "0c721cf4-86b3-423d-b8a2-8276a66f2969;mammalia;carnivora;herpestidae;atilax;paludinosus;marsh mongoose"
+  },
+  "30": {
+    "short_name": "mongoose_large_grey",
+    "target_label": "341cda2b-34df-4391-a61e-ba063bbe2f9a;mammalia;carnivora;herpestidae;herpestes;ichneumon;egyptian mongoose"
+  },
+  "31": {
+    "short_name": "hare",
+    "target_label": "d07fdf54-b3e5-46da-93a7-65fa5dda1055;mammalia;lagomorpha;leporidae;lepus;victoriae;african savanna hare"
+  },
+  "32": {
+    "short_name": "genet",
+    "target_label": "9e251a37-cef9-4bf9-b876-2ca1279dc613;mammalia;carnivora;viverridae;genetta;;genetta species"
+  },
+  "33": {
+    "short_name": "mongoose_bushy_tailed",
+    "target_label": "7ee8462e-c856-4ff3-89d0-13fe7a136150;mammalia;carnivora;herpestidae;bdeogale;crassicauda;bushy-tailed mongoose"
+  },
+  "34": {
+    "short_name": "mongoose_banded",
+    "target_label": "959d9eaf-e359-41c5-a9e5-220667e52a9b;mammalia;carnivora;herpestidae;mungos;mungo;banded mongoose"
+  },
+  "35": {
+    "short_name": "bushbaby",
+    "target_label": "8c3a4d44-b86e-4678-b39c-bbc13b88aecd;mammalia;primates;galagidae;otolemur;crassicaudatus;thick-tailed greater galago"
+  },
+  "36": {
+    "short_name": "mongoose_slender",
+    "target_label": "3ac589d6-a591-41f0-adc7-37bde833fb11;mammalia;carnivora;herpestidae;herpestes;sanguineus;common slender mongoose"
+  },
+  "37": {
+    "short_name": "mongoose_dwarf",
+    "target_label": "3e8412c2-8b79-4116-8cb1-a0ca3a8f856c;mammalia;carnivora;herpestidae;helogale;parvula;common dwarf mongoose"
+  },
+  "38": {
+    "short_name": "ground_hornbill",
+    "target_label": "e8082989-aa2f-4aa6-a457-19adfd77fabc;aves;bucerotiformes;bucerotidae;bucorvus;leadbeateri;southern ground-hornbill"
+  },
+  "39": {
+    "short_name": "guineafowl_crested",
+    "target_label": "d4817787-1c5b-4dfe-9251-03c759845951;aves;galliformes;numididae;guttera;pucherani;pintade hupp\u00e9e"
+  },
+  "40": {
+    "short_name": "guineafowl_helmeted",
+    "target_label": "83133617-8358-4910-82ee-4c23e40ba3dc;aves;galliformes;numididae;numida;meleagris;helmeted guineafowl"
+  },
+  "41": {
+    "short_name": "rodent",
+    "target_label": "2a0223ce-bf36-4acd-996a-20ecdaa472ac;mammalia;rodentia;hystricidae;hystrix;;hystrix species"
+  },
+  "42": {
+    "short_name": "bird_other",
+    "target_label": "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order"
+  },
+  "43": {
+    "short_name": "duiker",
+    "target_label": "3e34492e-b6d2-4db9-925d-301beb639cad;mammalia;cetartiodactyla;bovidae;cephalophus;;cephalophus species"
+  },
+  "44": {
+    "short_name": "reptile",
+    "target_label": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+  },
+  "45": {
+    "short_name": "antelope",
+    "target_label": "a27d3983-76a1-4d2d-b080-18747cd77dcb;mammalia;artiodactyla;;;;even-toed ungulate"
+  },
+  "46": {
+    "short_name": "guineafowl",
+    "target_label": "30015f2a-5598-461d-bc33-1eb2cef56f1a;aves;galliformes;numididae;;;guineafowl family"
+  },
+  "1": {
+    "short_name": "hippopotamus",
+    "target_label": "7631afd3-ab8e-4e88-9243-2c21386595eb;mammalia;cetartiodactyla;hippopotamidae;hippopotamus;amphibius;hippopotamus"
+  }
+}

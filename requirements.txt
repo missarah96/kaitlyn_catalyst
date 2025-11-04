@@ -1,0 +1,9 @@
+# required: also install torch and torch vision according to your CUDA constraints!
+PyYAML
+tqdm
+numpy
+wandb
+torch
+scikit-learn
+matplotlib
+seaborn

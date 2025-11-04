@@ -1,0 +1,4 @@
+b0f1b993-d62c-4b55-b833-5e575a15df05;mammalia;cetartiodactyla;bovidae;kobus;ellipsiprymnus;waterbuck
+ccd7d6d7-8eb2-4fdb-a6d6-f1970847e449;mammalia;cetartiodactyla;suidae;phacochoerus;africanus;common warthog
+c134e0ab-cf96-45ec-bae6-60b94995f71b;mammalia;cetartiodactyla;bovidae;aepyceros;melampus;impala
+d4f7-472d-8c38-2c54910d1e04;mammalia;primates;cercopithecidae;papio;cynocephalus;yellow baboon
